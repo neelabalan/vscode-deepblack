@@ -11,7 +11,7 @@
 		"list.hoverForeground" : "#fff",
 		"list.hoverBackground" : "#0d0d0d",
 		"list.activeSelectionForeground" : "#fff",
-		"list.activeSelectionBackground" : "#0d0d0d",
+		"list.activeSelectionBackground" : "#1d1d1d",
 		"list.focusBackground" : "#0d0d0d",
 		"list.inactiveSelectionBackground":"#0d0d0d",
 
@@ -20,7 +20,7 @@
 		"editor.findMatchBackground": "#3a4a54",
 		"editor.findMatchHighlightBackground": "#3a4a54",
 		"editor.selectionBackground": "#4a4a4a",
-		"editor.background": "#000",
+		"editor.background": "#000000",
 		"statusBar.background": "#000",
 		
 		// editor group
@@ -36,7 +36,7 @@
 		// activity bar
 		"activityBarBadge.background": "#000",
 		"activityBar.background": "#000",
-		"activityBar.foreground": "#dbdbdb",
+		"activityBar.foreground": "#ffffff",
 
 
 		// quickinput
@@ -77,8 +77,6 @@
 
 		// panel
 		"panel.background":"#000",
-		"panelTitle.activeBorder":"#0d0d0d",
-		"panelTitle.activeForeground": "#1f1f1f",
 		"panelInput.border":"#1f1f1f",
 
 		// dropdown
