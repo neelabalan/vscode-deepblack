@@ -1,0 +1,30 @@
+{
+	"name": "vscode-deepblack-theme",
+	"displayName": "Deep Black Theme",
+	"publisher": "neelabalan",
+	"description": "Deep Black Theme",
+	"version": "1.0.0",
+	"icon": "logo.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/neelabalan/vscode-deepblack"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Deep Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/deepblack-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"publisherDisplayName": "Neelabalan N"
+	}
+}
