@@ -6,6 +6,10 @@
 > And the Spirit of God moved upon the face of the waters.
 > And God said, ~~Let there be light: and there was light.~~ I like dark theme
 
+## Install
+
+Download the `vsix` package from this repo's releases and install it from vscode's command pallete
+
 ## Screenshot
 
 ### Editor window
@@ -22,18 +26,5 @@
 ![pallete](screenshots/pallete.png)
 ---
 
-
-## Manual Install
-
-```
-cd ~/.vscode/extensions
-git clone https://github.com/neelabalan/vscode-vantablack-theme.git vanta-black-theme
-```
-
-#### or
-
-Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
-
-`ext install neelabalan.vscode-vantablack-theme`
 
 > This theme is extended from Pitch black theme
