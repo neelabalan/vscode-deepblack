@@ -1,5 +1,5 @@
 {
-	"name": "Vanta Black",
+	"name": "Deep Black",
 	"colors": {
 		// sidebar
 		"sideBar.foreground": "#f8f8f8",
@@ -20,7 +20,7 @@
 		"editor.findMatchBackground": "#3a4a54",
 		"editor.findMatchHighlightBackground": "#3a4a54",
 		"editor.selectionBackground": "#4a4a4a",
-		"editor.background": "#000000",
+		"editor.background": "#060606",
 		"statusBar.background": "#000",
 		
 		// editor group
